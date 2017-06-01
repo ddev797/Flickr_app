@@ -10,7 +10,7 @@ Lng : 77.6146828
 Generate FLick api key from here : https://www.flickr.com/services/apps/create/
 
 Steps to create env variable in .bashrc file:
-1. GO to your HOME folder and look for a file named .bashrc
+1. GO to your HOME folder (push ```command+shift+H``` for HOME) and look for a file named .bashrc
 2. Open it with a text editor
 3. Add the following lines of code:
 ```export flickr_api_key="FLICKR_API_KEY"```
